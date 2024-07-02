@@ -13,6 +13,7 @@ consentimiento.
 necesario que nuestros servicios de foreground estén activos. Estos permisos nos permiten
 mantener la conexión en primer plano sin interrupciones. Tenga en cuenta que sin estos
 permisos, la aplicación no funcionará correctamente.
+
 3. Seguridad de la información: Nos comprometemos a proteger sus datos personales
 mediante el uso de medidas de seguridad adecuadas. Implementamos tecnologías avanzadas
 para garantizar la confidencialidad y integridad de su información.
