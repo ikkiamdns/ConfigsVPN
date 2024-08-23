@@ -1,0 +1,37 @@
+Política de Privacidad
+
+Última actualización: 23-08-2024
+
+Esta Política de Privacidad describe cómo MUSIC PLAYER (nosotros, nuestro o la Aplicación) recopila, utiliza y protege su información al utilizar nuestra aplicación de música. Al utilizar la Aplicación, usted acepta los términos de esta Política de Privacidad.
+
+1. Información que Recopilamos
+
+Permisos Solicitados:
+
+- READ_EXTERNAL_STORAGE: Este permiso nos permite acceder a su almacenamiento externo para leer archivos de audio almacenados en su dispositivo. No accedemos ni recopilamos ningún otro tipo de información almacenada en su dispositivo.
+  
+- READ_MEDIA_AUDIO: Utilizamos este permiso para acceder a archivos de audio en su dispositivo para reproducir música en la Aplicación.
+
+- WAKE_LOCK: Este permiso nos permite mantener la pantalla encendida mientras se reproduce música, evitando que el dispositivo entre en modo de suspensión.
+
+- FOREGROUND_SERVICE: Este permiso es necesario para que la Aplicación siga funcionando en segundo plano, asegurando que la reproducción de música continúe incluso cuando la aplicación no está abierta.
+
+- MODIFY_AUDIO_SETTINGS: Este permiso nos permite modificar los ajustes de audio del dispositivo para mejorar la experiencia de reproducción de música.
+
+- POST_NOTIFICATIONS: Utilizamos este permiso para enviar notificaciones sobre el estado de la reproducción de música, como cuando una canción comienza o termina.
+
+2. Uso de la Información
+
+La información recopilada a través de los permisos mencionados es utilizada exclusivamente para proporcionar y mejorar las funcionalidades de la Aplicación. No compartimos, vendemos ni alquilamos su información personal a terceros.
+
+3. Seguridad
+
+Nos comprometemos a proteger su información personal y tomamos medidas de seguridad razonables para protegerla contra el acceso no autorizado, la alteración, divulgación o destrucción.
+
+4. Cambios en esta Política de Privacidad
+
+Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquier momento. Le notificaremos cualquier cambio mediante la publicación de la nueva Política de Privacidad en esta página.
+
+5. Contacto
+
+Si tiene alguna pregunta o inquietud acerca de esta Política de Privacidad, no dude en contactarnos en kuroganeikkiuwu0@gmail.com.
